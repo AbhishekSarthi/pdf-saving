@@ -1,0 +1,57 @@
+
+ul{
+	list-style-type: none;
+}
+
+
+thead{
+	text-align: left;
+	border-bottom: solid #828282 4px;
+}
+
+
+.container{
+	
+    width: 60%;
+    margin-top: 50px;
+    display: flex;
+}
+
+
+.one{
+	
+	flex: 40%;
+	margin-right: 10%;
+	margin-top: 37px;
+}
+
+
+.two{
+	flex: 50%;
+	margin-left: 20%;
+}
+
+
+.table{
+	border-top-style: none;
+	border-top: none;
+}
+
+
+.colo{
+	color: green;
+}
+
+
+.btn-primary{
+	position: absolute;
+	bottom: 8px;
+	right: 10px;	
+}
+
+
+.btn-secondary{
+	position: absolute;
+	bottom: 50px;
+	right: 10px;	
+}
